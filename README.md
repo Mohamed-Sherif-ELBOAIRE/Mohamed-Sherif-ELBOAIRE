@@ -4,6 +4,10 @@
 
 Cairo, EG | mohamed.sherif.elboraie@gmail.com | (+20)1090342885 | [LinkedIn](https://www.linkedin.com/in/mohamed-sherif-elboraie/) 
 
+Feel free to explore the projects and code samples in this repository to gain insights into my data science and machine learning capabilities.
+I am open to freelance opportunities and job vacancies in the field of Data Science and Machine Learning, where I can contribute my skills and knowledge to drive impactful data-driven solutions.
+
+
 ## Professional Summary
 
 - Motivated recent graduate with a BSc in Software Engineering from Helwan University, aspiring to pursue a career in Data Science and ultimately become a Machine Learning Engineer.
